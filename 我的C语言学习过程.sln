@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1helloword", "1.1hellowor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for九九乘法表", "for九九乘法表\for九九乘法表.vcxproj", "{FC49480A-98F8-4C48-9889-186CE749BE46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.7强制类型转化和对初学者很重要求和程序讲解", "6.7强制类型转化和对初学者很重要求和程序讲解\6.7强制类型转化和对初学者很重要求和程序讲解.vcxproj", "{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{FC49480A-98F8-4C48-9889-186CE749BE46}.Release|x64.Build.0 = Release|x64
 		{FC49480A-98F8-4C48-9889-186CE749BE46}.Release|x86.ActiveCfg = Release|Win32
 		{FC49480A-98F8-4C48-9889-186CE749BE46}.Release|x86.Build.0 = Release|Win32
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Debug|x64.ActiveCfg = Debug|x64
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Debug|x64.Build.0 = Debug|x64
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Debug|x86.Build.0 = Debug|Win32
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Release|x64.ActiveCfg = Release|x64
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Release|x64.Build.0 = Release|x64
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Release|x86.ActiveCfg = Release|Win32
+		{5D57037B-3C1F-40BB-9E56-5F275FC70AC6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
