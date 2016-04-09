@@ -1,4 +1,5 @@
-﻿#include <stdio.h>
+﻿/*20160409GITHUB上传测试*/
+#include <stdio.h>
 int main() 
 {
 	int i, j;
