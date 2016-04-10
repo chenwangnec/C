@@ -13,6 +13,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.7强制类型转化和对
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.8浮点数的存错所带来的问题", "6.8浮点数的存错所带来的问题\6.8浮点数的存错所带来的问题.vcxproj", "{77BF0E11-602F-4591-8E9A-D6559BA9526B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取当前用户目录", "获取当前用户目录\获取当前用户目录.vcxproj", "{DD2186BD-A110-4036-B1DD-83024C38D8E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取信息", "信息获取\获取信息.vcxproj", "{0B761A4D-E843-4104-BEF7-A0D545507292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +65,20 @@ Global
 		{77BF0E11-602F-4591-8E9A-D6559BA9526B}.Release|x64.Build.0 = Release|x64
 		{77BF0E11-602F-4591-8E9A-D6559BA9526B}.Release|x86.ActiveCfg = Release|Win32
 		{77BF0E11-602F-4591-8E9A-D6559BA9526B}.Release|x86.Build.0 = Release|Win32
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Debug|x64.ActiveCfg = Debug|x64
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Debug|x64.Build.0 = Debug|x64
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Debug|x86.Build.0 = Debug|Win32
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Release|x64.ActiveCfg = Release|x64
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Release|x64.Build.0 = Release|x64
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Release|x86.ActiveCfg = Release|Win32
+		{DD2186BD-A110-4036-B1DD-83024C38D8E1}.Release|x86.Build.0 = Release|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Debug|x64.ActiveCfg = Debug|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Debug|x86.Build.0 = Debug|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x64.ActiveCfg = Release|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x86.ActiveCfg = Release|Win32
+		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
