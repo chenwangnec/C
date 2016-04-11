@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取当前用户目录", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取信息", "信息获取\获取信息.vcxproj", "{0B761A4D-E843-4104-BEF7-A0D545507292}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9for练习题1到100之前奇数之和", "6.9for练习题1到100之前奇数之和\6.9for练习题1到100之前奇数之和.vcxproj", "{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -79,6 +81,14 @@ Global
 		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x64.ActiveCfg = Release|Win32
 		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x86.ActiveCfg = Release|Win32
 		{0B761A4D-E843-4104-BEF7-A0D545507292}.Release|x86.Build.0 = Release|Win32
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Debug|x64.ActiveCfg = Debug|x64
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Debug|x64.Build.0 = Debug|x64
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Debug|x86.Build.0 = Debug|Win32
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Release|x64.ActiveCfg = Release|x64
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Release|x64.Build.0 = Release|x64
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Release|x86.ActiveCfg = Release|Win32
+		{CB7369BF-117A-4317-A8C0-947BD2CC3AE2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
