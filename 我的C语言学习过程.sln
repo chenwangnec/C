@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9for练习题1到100之�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9for练习题1到100之前奇数和个数", "6.9for练习题1到100之前奇数和个数\6.9for练习题1到100之前奇数和个数.vcxproj", "{B52C8210-031D-4850-8E23-2BCC0D4F6463}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9for练习题1到100之间的奇数平均值", "6.9for练习题1到100之间的奇数平均值\6.9for练习题1到100之间的奇数平均值.vcxproj", "{9498239D-3AA8-4558-94AE-7F0C0EB8E454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -99,6 +101,14 @@ Global
 		{B52C8210-031D-4850-8E23-2BCC0D4F6463}.Release|x64.Build.0 = Release|x64
 		{B52C8210-031D-4850-8E23-2BCC0D4F6463}.Release|x86.ActiveCfg = Release|Win32
 		{B52C8210-031D-4850-8E23-2BCC0D4F6463}.Release|x86.Build.0 = Release|Win32
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Debug|x64.ActiveCfg = Debug|x64
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Debug|x64.Build.0 = Debug|x64
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Debug|x86.ActiveCfg = Debug|Win32
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Debug|x86.Build.0 = Debug|Win32
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Release|x64.ActiveCfg = Release|x64
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Release|x64.Build.0 = Release|x64
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Release|x86.ActiveCfg = Release|Win32
+		{9498239D-3AA8-4558-94AE-7F0C0EB8E454}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
