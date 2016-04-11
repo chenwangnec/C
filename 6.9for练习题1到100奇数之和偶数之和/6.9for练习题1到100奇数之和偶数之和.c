@@ -3,6 +3,7 @@
 Ñ§Ï°Ä¿µÄ:
 ÊìÁ·ÕÆÎÕforÓï¾ä
 */
+
 #include <stdio.h>
 int main()
 {

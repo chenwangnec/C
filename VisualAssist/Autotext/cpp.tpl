@@ -42,6 +42,9 @@ a::#im:
 #import <$end$>
 a::#in:
 #include "$end$"
+a:#include <stdio.h>:std:
+#include <stdio.h>
+$end$
 a::#in:
 #include <$end$>
 a::#p:
@@ -72,6 +75,12 @@ a:/*Operation result*/:yx:
 ---------------------------------------------
 $end$
 ---------------------------------------------
+*/
+a:/*time*/:time:
+/*
+$DATE$ $HOUR$:$MINUTE$:$SECOND$
+Ñ§Ï°Ä¿µÄ:
+$end$
 */
 a::/**:
 /************************************************************************/
@@ -266,6 +275,13 @@ else
 	$selected$
 }
 
+a:int main(){...}:intm:
+int main()
+{
+	$end$
+	getchar();
+	return 0;
+}
 a::ll:
 long long
 a::LP:
