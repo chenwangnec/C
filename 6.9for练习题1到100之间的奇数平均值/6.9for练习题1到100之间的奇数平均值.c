@@ -15,7 +15,7 @@ int main()
 		sum += i;//等价于sum=sum+i
 		cnt++;//自动加1
 	}
-	avg = 1.0*sum / cnt; //1.0*sum 不强制转换最好的结果办法 结果也可以正常带小数
+	avg = 1.0f*sum / cnt; //1.0*sum 不强制转换最好的结果办法 结果也可以正常带小数 1.0f让编译器以float处理这个数据不会报double转float丢失数据警告
 	printf("1到100之间奇数的和是:%d\n",sum);
 	printf("1到100之间奇数的个数是:%d\n",cnt);
 	printf("1到100之间奇数的平均值是:%.2f\n",avg); //这里注意,这里输出%f 不然结果全错 %.2f小数保留2位
